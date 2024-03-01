@@ -8,7 +8,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#607A53",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -43,7 +43,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#E0BCBC",
+        "avg_color": "#53737A",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -68,7 +68,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#7C9BA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -82,7 +82,7 @@
     },
     "id": 9427,
     "image": {
-      "avg_color": "#FFF1EB",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -107,7 +107,7 @@
     },
     "name": "Pegasus",
     "preview_image": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#FADCDC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -134,7 +134,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -169,7 +169,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#EBEBFF",
+        "avg_color": "#CCA3A3",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -194,7 +194,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#F1FFEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -208,7 +208,7 @@
     },
     "id": 9092,
     "image": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#A3967C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -233,7 +233,7 @@
     },
     "name": "Fire Phoenix",
     "preview_image": {
-      "avg_color": "#EBEBFF",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -260,7 +260,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#524937",
+      "avg_color": "#607A53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -284,7 +284,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7A5353",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -298,7 +298,7 @@
     },
     "id": 8651,
     "image": {
-      "avg_color": "#523737",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -323,7 +323,7 @@
     },
     "name": "Thunder Falcon",
     "preview_image": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -348,7 +348,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FFF8EB",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -383,7 +383,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#607A53",
+        "avg_color": "#CEE5EB",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -422,7 +422,7 @@
     },
     "id": 7312,
     "image": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -447,7 +447,7 @@
     },
     "name": "TikTok Universe+",
     "preview_image": {
-      "avg_color": "#A37C96",
+      "avg_color": "#E0BCD4",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -472,7 +472,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -496,7 +496,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -510,7 +510,7 @@
     },
     "id": 7125,
     "image": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -547,7 +547,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#A3967C",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -572,7 +572,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#666666",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -586,7 +586,7 @@
     },
     "id": 8248,
     "image": {
-      "avg_color": "#EBD8CE",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -623,7 +623,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -648,7 +648,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#373752",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -662,7 +662,7 @@
     },
     "id": 8247,
     "image": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -699,7 +699,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -737,7 +737,7 @@
     },
     "id": 7124,
     "image": {
-      "avg_color": "#A3897C",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -774,7 +774,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#53737A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -799,7 +799,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -813,7 +813,7 @@
     },
     "id": 8245,
     "image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#524037",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -850,7 +850,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#A3C4CC",
+      "avg_color": "#E0C8BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -874,7 +874,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -888,7 +888,7 @@
     },
     "id": 7123,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -936,7 +936,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -950,7 +950,7 @@
     },
     "id": 9138,
     "image": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -987,7 +987,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#FADCDC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1011,7 +1011,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAE6DC",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1025,7 +1025,7 @@
     },
     "id": 7122,
     "image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1062,7 +1062,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#524937",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1086,7 +1086,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1137,7 +1137,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#D8EBCE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1161,7 +1161,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1175,7 +1175,7 @@
     },
     "id": 7121,
     "image": {
-      "avg_color": "#A3967C",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1212,7 +1212,7 @@
     "duration": 3000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#666666",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1236,7 +1236,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#53737A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1250,7 +1250,7 @@
     },
     "id": 6432,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1287,7 +1287,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1311,7 +1311,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7A6053",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1325,7 +1325,7 @@
     },
     "id": 8243,
     "image": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#53737A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1362,7 +1362,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1386,7 +1386,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1400,7 +1400,7 @@
     },
     "id": 9139,
     "image": {
-      "avg_color": "#EBD8CE",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1437,7 +1437,7 @@
     "duration": 3000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1461,7 +1461,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#EBCECE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1475,7 +1475,7 @@
     },
     "id": 7934,
     "image": {
-      "avg_color": "#A3C4CC",
+      "avg_color": "#C8E0BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1523,7 +1523,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1537,7 +1537,7 @@
     },
     "id": 6064,
     "image": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1585,7 +1585,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FFF8EB",
+      "avg_color": "#A3967C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1599,7 +1599,7 @@
     },
     "id": 5655,
     "image": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1647,7 +1647,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1661,7 +1661,7 @@
     },
     "id": 5269,
     "image": {
-      "avg_color": "#D8EBCE",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1709,7 +1709,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F0F0F0",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1723,7 +1723,7 @@
     },
     "id": 5487,
     "image": {
-      "avg_color": "#FFEBEB",
+      "avg_color": "#BCBCE0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1760,7 +1760,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#374C52",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1784,7 +1784,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7A6D53",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1798,7 +1798,7 @@
     },
     "id": 9947,
     "image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#EBCECE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1846,7 +1846,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#607A53",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1860,7 +1860,7 @@
     },
     "id": 8913,
     "image": {
-      "avg_color": "#FFFFFF",
+      "avg_color": "#E0BCD4",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1908,7 +1908,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1922,7 +1922,7 @@
     },
     "id": 5658,
     "image": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#FFF8EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1970,7 +1970,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#F1FFEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -1984,7 +1984,7 @@
     },
     "id": 5879,
     "image": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#7A6053",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2021,7 +2021,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#E0D4BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2082,7 +2082,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#FAF0DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2096,7 +2096,7 @@
     },
     "id": 9072,
     "image": {
-      "avg_color": "#666666",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2121,7 +2121,7 @@
     },
     "name": "TikTok Universe",
     "preview_image": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#405237",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2146,7 +2146,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2181,7 +2181,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#CCA3BE",
+        "avg_color": "#523749",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -2207,7 +2207,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#7A6053",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2221,7 +2221,7 @@
     },
     "id": 8582,
     "image": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2272,7 +2272,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#524037",
+      "avg_color": "#CCBEA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2286,7 +2286,7 @@
     },
     "id": 8381,
     "image": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2323,7 +2323,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#A37C7C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2358,7 +2358,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#BCBCE0",
+        "avg_color": "#89A37C",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -2384,7 +2384,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#373752",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2398,7 +2398,7 @@
     },
     "id": 7823,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2449,7 +2449,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2463,7 +2463,7 @@
     },
     "id": 8391,
     "image": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2500,7 +2500,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#405237",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2535,7 +2535,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#E0BCBC",
+        "avg_color": "#CCA3A3",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -2561,7 +2561,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#524937",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2575,7 +2575,7 @@
     },
     "id": 8602,
     "image": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#FFEBF8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2614,7 +2614,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#524937",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2649,7 +2649,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#E0BCD4",
+        "avg_color": "#D6D6D6",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -2675,7 +2675,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#666666",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2689,7 +2689,7 @@
     },
     "id": 6369,
     "image": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#A37C96",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -2728,935 +2728,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#8F8F8F",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/fc4d2b99910ce9bea92c8a8b503519f9",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "gift_label_type": 6,
-    "gift_panel_banner": {
-      "banner_lynx_extra": "",
-      "banner_lynx_url": "",
-      "banner_priority": 900,
-      "bg_color_values": [],
-      "deprecated": "",
-      "display_text": {
-        "default_format": {
-          "bold": false,
-          "color": "C0FFFFFF",
-          "font_size": 14,
-          "italic": false,
-          "italic_angle": 0,
-          "use_heigh_light_color": false,
-          "use_remote_clor": false,
-          "weight": 0
-        },
-        "default_pattern": "Gift includes audio.",
-        "key": "pm_mt_audio_gift_desc",
-        "pieces": []
-      },
-      "left_icon": {
-        "avg_color": "#E0C8BC",
-        "height": 24,
-        "image_type": 0,
-        "is_animated": false,
-        "open_web_url": "",
-        "uri": "webcast-sg/gift_audio_icon_v1.png",
-        "url_list": [
-          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
-          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
-        ],
-        "width": 24
-      },
-      "schema_url": ""
-    },
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 2,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6,
-      7
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#CEE5EB",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 7610,
-    "image": {
-      "avg_color": "#607A53",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Dragon Flame",
-    "primary_effect_id": 2865,
-    "tracker_params": {
-      "gift_property": "audio_gift"
-    },
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Phoenix",
-    "diamond_count": 25999,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 0,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6,
-      7
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#EBEBFF",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/ef248375c4167d70c1642731c732c982",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 7319,
-    "image": {
-      "avg_color": "#D8EBCE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/ef248375c4167d70c1642731c732c982",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Phoenix",
-    "primary_effect_id": 1511,
-    "tracker_params": {},
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Adam’s Dream",
-    "diamond_count": 25999,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_icon": {
-      "avg_color": "#E0D4BC",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/fc4d2b99910ce9bea92c8a8b503519f9",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "gift_label_type": 6,
-    "gift_panel_banner": {
-      "banner_lynx_extra": "",
-      "banner_lynx_url": "",
-      "banner_priority": 900,
-      "bg_color_values": [],
-      "deprecated": "",
-      "display_text": {
-        "default_format": {
-          "bold": false,
-          "color": "C0FFFFFF",
-          "font_size": 14,
-          "italic": false,
-          "italic_angle": 0,
-          "use_heigh_light_color": false,
-          "use_remote_clor": false,
-          "weight": 0
-        },
-        "default_pattern": "Gift includes audio.",
-        "key": "pm_mt_audio_gift_desc",
-        "pieces": []
-      },
-      "left_icon": {
-        "avg_color": "#C8E0BC",
-        "height": 24,
-        "image_type": 0,
-        "is_animated": false,
-        "open_web_url": "",
-        "uri": "webcast-sg/gift_audio_icon_v1.png",
-        "url_list": [
-          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
-          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
-        ],
-        "width": 24
-      },
-      "schema_url": ""
-    },
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 2,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6,
-      7
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#EBEBFF",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/9a586391fbb1e21621c4203e5563a9e0",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 7400,
-    "image": {
-      "avg_color": "#A37C96",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/9a586391fbb1e21621c4203e5563a9e0",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Adam’s Dream",
-    "primary_effect_id": 2870,
-    "tracker_params": {
-      "gift_property": "audio_gift"
-    },
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent TikTok Shuttle",
-    "diamond_count": 20000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 0,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6,
-      7
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#7A6D53",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/8ef48feba8dd293a75ae9d4376fb17c9",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 6751,
-    "image": {
-      "avg_color": "#EBCECE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/8ef48feba8dd293a75ae9d4376fb17c9",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "TikTok Shuttle",
-    "primary_effect_id": 1073,
-    "tracker_params": {},
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Castle Fantasy",
-    "diamond_count": 20000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 0,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      7
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#EBE1CE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/8173e9b07875cca37caa5219e4903a40",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 6833,
-    "image": {
-      "avg_color": "#3D3D3D",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/8173e9b07875cca37caa5219e4903a40",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Castle Fantasy",
-    "primary_effect_id": 1146,
-    "tracker_params": {},
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Space",
-    "diamond_count": 20000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 0,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#EBFBFF",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 9302,
-    "image": {
-      "avg_color": "#A3967C",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Space",
-    "primary_effect_id": 4385,
-    "tracker_params": {},
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Yacht",
-    "diamond_count": 20000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_panel_banner": {
-      "banner_lynx_extra": "",
-      "banner_lynx_url": "",
-      "banner_priority": 900,
-      "bg_color_values": [],
-      "deprecated": "",
-      "display_text": {
-        "default_format": {
-          "bold": false,
-          "color": "C0FFFFFF",
-          "font_size": 14,
-          "italic": false,
-          "italic_angle": 0,
-          "use_heigh_light_color": false,
-          "use_remote_clor": false,
-          "weight": 0
-        },
-        "default_pattern": "Gift includes audio.",
-        "key": "pm_mt_audio_gift_desc",
-        "pieces": []
-      },
-      "left_icon": {
-        "avg_color": "#CECEEB",
-        "height": 24,
-        "image_type": 0,
-        "is_animated": false,
-        "open_web_url": "",
-        "uri": "webcast-sg/gift_audio_icon_v1.png",
-        "url_list": [
-          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
-          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
-        ],
-        "width": 24
-      },
-      "schema_url": ""
-    },
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 2,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#FADCF0",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 9501,
-    "image": {
-      "avg_color": "#EBE1CE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Yacht",
-    "primary_effect_id": 5039,
-    "tracker_params": {
-      "gift_property": "audio_gift"
-    },
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Diamond flight",
-    "diamond_count": 18000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_icon": {
-      "avg_color": "#D8EBCE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/da1b9634927dbaa5dd0675e95c26d390",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/da1b9634927dbaa5dd0675e95c26d390~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/da1b9634927dbaa5dd0675e95c26d390~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "gift_label_type": 1,
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 0,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      0
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#EBD8CE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 8707,
-    "image": {
-      "avg_color": "#CCA3BE",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Diamond flight",
-    "primary_effect_id": 3070,
-    "tracker_params": {},
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Amusement Park",
-    "diamond_count": 17000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_panel_banner": {
-      "banner_lynx_extra": "",
-      "banner_lynx_url": "",
-      "banner_priority": 900,
-      "bg_color_values": [],
-      "deprecated": "",
-      "display_text": {
-        "default_format": {
-          "bold": false,
-          "color": "C0FFFFFF",
-          "font_size": 14,
-          "italic": false,
-          "italic_angle": 0,
-          "use_heigh_light_color": false,
-          "use_remote_clor": false,
-          "weight": 0
-        },
-        "default_pattern": "Gift includes audio.",
-        "key": "pm_mt_audio_gift_desc",
-        "pieces": []
-      },
-      "left_icon": {
-        "avg_color": "#523749",
-        "height": 24,
-        "image_type": 0,
-        "is_animated": false,
-        "open_web_url": "",
-        "uri": "webcast-sg/gift_audio_icon_v1.png",
-        "url_list": [
-          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
-          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
-        ],
-        "width": 24
-      },
-      "schema_url": ""
-    },
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 2,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#E6FADC",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 9466,
-    "image": {
-      "avg_color": "#E0BCBC",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Amusement Park",
-    "primary_effect_id": 4539,
-    "tracker_params": {
-      "gift_property": "audio_gift"
-    },
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Maggie",
-    "diamond_count": 15000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_icon": {
-      "avg_color": "#666666",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/fc4d2b99910ce9bea92c8a8b503519f9",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "gift_label_type": 6,
-    "gift_panel_banner": {
-      "banner_lynx_extra": "",
-      "banner_lynx_url": "",
-      "banner_priority": 900,
-      "bg_color_values": [],
-      "deprecated": "",
-      "display_text": {
-        "default_format": {
-          "bold": false,
-          "color": "C0FFFFFF",
-          "font_size": 14,
-          "italic": false,
-          "italic_angle": 0,
-          "use_heigh_light_color": false,
-          "use_remote_clor": false,
-          "weight": 0
-        },
-        "default_pattern": "Gift includes audio.",
-        "key": "pm_mt_audio_gift_desc",
-        "pieces": []
-      },
-      "left_icon": {
-        "avg_color": "#523749",
-        "height": 24,
-        "image_type": 0,
-        "is_animated": false,
-        "open_web_url": "",
-        "uri": "webcast-sg/gift_audio_icon_v1.png",
-        "url_list": [
-          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
-          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
-        ],
-        "width": 24
-      },
-      "schema_url": ""
-    },
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 2,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      7
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#E0C8BC",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/0a3e2a7cbed19434df523604c708a5ba",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 7911,
-    "image": {
-      "avg_color": "#373752",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/0a3e2a7cbed19434df523604c708a5ba",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Maggie",
-    "primary_effect_id": 2035,
-    "tracker_params": {
-      "gift_property": "audio_gift"
-    },
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Alien Spaceship",
-    "diamond_count": 15000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_type": 0,
-    "gift_rank_recommend_info": "",
-    "gift_skin_to_gift_texts_infos": [],
-    "gift_skins": [],
-    "gift_sub_type": 0,
-    "gift_texts": [],
-    "gift_vertical_scenarios": [
-      6
-    ],
-    "gold_effect": "",
-    "group_in_tab": 0,
-    "icon": {
-      "avg_color": "#FFEBEB",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/69dd4103f8bab2eb4c07c844817d2761.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "id": 8389,
-    "image": {
-      "avg_color": "#A3A3CC",
-      "height": 0,
-      "image_type": 0,
-      "is_animated": false,
-      "open_web_url": "",
-      "uri": "webcast-va/69dd4103f8bab2eb4c07c844817d2761.png",
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp"
-      ],
-      "width": 0
-    },
-    "is_box_gift": false,
-    "is_broadcast_gift": false,
-    "is_displayed_on_panel": false,
-    "is_effect_befview": false,
-    "is_gallery_gift": false,
-    "is_random_gift": false,
-    "lock_info": {
-      "gift_level": 0,
-      "lock": false,
-      "lock_type": 0
-    },
-    "name": "Alien Spaceship",
-    "primary_effect_id": 2541,
-    "tracker_params": {},
-    "type": 2
-  },
-  {
-    "can_put_in_gift_box": false,
-    "color_infos": [],
-    "combo": false,
-    "describe": "sent Rosa Nebula",
-    "diamond_count": 15000,
-    "duration": 1000,
-    "for_linkmic": true,
-    "gift_label_icon": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -3717,29 +2789,29 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7A5353",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
       "open_web_url": "",
-      "uri": "webcast-va/resource/f722088231103b66875dae33f13f8719.png",
+      "uri": "webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c",
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp"
       ],
       "width": 0
     },
-    "id": 8912,
+    "id": 7610,
     "image": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#A37C7C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
       "open_web_url": "",
-      "uri": "webcast-va/resource/f722088231103b66875dae33f13f8719.png",
+      "uri": "webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c",
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/89b4d1d93c1cc614e3a0903ac7a94e0c~tplv-obj.webp"
       ],
       "width": 0
     },
@@ -3754,8 +2826,8 @@
       "lock": false,
       "lock_type": 0
     },
-    "name": "Rosa Nebula",
-    "primary_effect_id": 3310,
+    "name": "Dragon Flame",
+    "primary_effect_id": 2865,
     "tracker_params": {
       "gift_property": "audio_gift"
     },
@@ -3765,20 +2837,834 @@
     "can_put_in_gift_box": false,
     "color_infos": [],
     "combo": false,
-    "describe": "sent Berlin",
-    "diamond_count": 15000,
+    "describe": "sent Phoenix",
+    "diamond_count": 25999,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 0,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6,
+      7
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#FFEBEB",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/ef248375c4167d70c1642731c732c982",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 7319,
+    "image": {
+      "avg_color": "#A3897C",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/ef248375c4167d70c1642731c732c982",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/ef248375c4167d70c1642731c732c982~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Phoenix",
+    "primary_effect_id": 1511,
+    "tracker_params": {},
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Adam’s Dream",
+    "diamond_count": 25999,
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
+      "avg_color": "#524937",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/fc4d2b99910ce9bea92c8a8b503519f9",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "gift_label_type": 6,
+    "gift_panel_banner": {
+      "banner_lynx_extra": "",
+      "banner_lynx_url": "",
+      "banner_priority": 900,
+      "bg_color_values": [],
+      "deprecated": "",
+      "display_text": {
+        "default_format": {
+          "bold": false,
+          "color": "C0FFFFFF",
+          "font_size": 14,
+          "italic": false,
+          "italic_angle": 0,
+          "use_heigh_light_color": false,
+          "use_remote_clor": false,
+          "weight": 0
+        },
+        "default_pattern": "Gift includes audio.",
+        "key": "pm_mt_audio_gift_desc",
+        "pieces": []
+      },
+      "left_icon": {
+        "avg_color": "#CCA3A3",
+        "height": 24,
+        "image_type": 0,
+        "is_animated": false,
+        "open_web_url": "",
+        "uri": "webcast-sg/gift_audio_icon_v1.png",
+        "url_list": [
+          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
+          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
+        ],
+        "width": 24
+      },
+      "schema_url": ""
+    },
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 2,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6,
+      7
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#DCF4FA",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/9a586391fbb1e21621c4203e5563a9e0",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 7400,
+    "image": {
+      "avg_color": "#373752",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/9a586391fbb1e21621c4203e5563a9e0",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/9a586391fbb1e21621c4203e5563a9e0~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Adam’s Dream",
+    "primary_effect_id": 2870,
+    "tracker_params": {
+      "gift_property": "audio_gift"
+    },
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent TikTok Shuttle",
+    "diamond_count": 20000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 0,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6,
+      7
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#3D3D3D",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/8ef48feba8dd293a75ae9d4376fb17c9",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 6751,
+    "image": {
+      "avg_color": "#E0BCBC",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/8ef48feba8dd293a75ae9d4376fb17c9",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8ef48feba8dd293a75ae9d4376fb17c9~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "TikTok Shuttle",
+    "primary_effect_id": 1073,
+    "tracker_params": {},
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Castle Fantasy",
+    "diamond_count": 20000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 0,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      7
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
       "avg_color": "#405237",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
       "open_web_url": "",
-      "uri": "webcast-va/d7b46fe44ce654966e17a5cff3336374",
+      "uri": "webcast-va/8173e9b07875cca37caa5219e4903a40",
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d7b46fe44ce654966e17a5cff3336374~tplv-obj.webp",
-        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/d7b46fe44ce654966e17a5cff3336374~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 6833,
+    "image": {
+      "avg_color": "#CCB1A3",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/8173e9b07875cca37caa5219e4903a40",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/8173e9b07875cca37caa5219e4903a40~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Castle Fantasy",
+    "primary_effect_id": 1146,
+    "tracker_params": {},
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Space",
+    "diamond_count": 20000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 0,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#BCD9E0",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 9302,
+    "image": {
+      "avg_color": "#7A6053",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/2ae4a5f68a02033cc428aeeb3893b72d.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Space",
+    "primary_effect_id": 4385,
+    "tracker_params": {},
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Yacht",
+    "diamond_count": 20000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_panel_banner": {
+      "banner_lynx_extra": "",
+      "banner_lynx_url": "",
+      "banner_priority": 900,
+      "bg_color_values": [],
+      "deprecated": "",
+      "display_text": {
+        "default_format": {
+          "bold": false,
+          "color": "C0FFFFFF",
+          "font_size": 14,
+          "italic": false,
+          "italic_angle": 0,
+          "use_heigh_light_color": false,
+          "use_remote_clor": false,
+          "weight": 0
+        },
+        "default_pattern": "Gift includes audio.",
+        "key": "pm_mt_audio_gift_desc",
+        "pieces": []
+      },
+      "left_icon": {
+        "avg_color": "#C8E0BC",
+        "height": 24,
+        "image_type": 0,
+        "is_animated": false,
+        "open_web_url": "",
+        "uri": "webcast-sg/gift_audio_icon_v1.png",
+        "url_list": [
+          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
+          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
+        ],
+        "width": 24
+      },
+      "schema_url": ""
+    },
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 2,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#FFFFFF",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 9501,
+    "image": {
+      "avg_color": "#FAF0DC",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e69e2626f6ff43d1c1f2b8ae5ea42514.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Yacht",
+    "primary_effect_id": 5039,
+    "tracker_params": {
+      "gift_property": "audio_gift"
+    },
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Diamond flight",
+    "diamond_count": 18000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_icon": {
+      "avg_color": "#523749",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/da1b9634927dbaa5dd0675e95c26d390",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/da1b9634927dbaa5dd0675e95c26d390~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/da1b9634927dbaa5dd0675e95c26d390~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "gift_label_type": 1,
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 0,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      0
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#FAFAFA",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 8707,
+    "image": {
+      "avg_color": "#89A37C",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ada51a63094568b529b5efd83b182bc4.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Diamond flight",
+    "primary_effect_id": 3070,
+    "tracker_params": {},
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Amusement Park",
+    "diamond_count": 17000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_panel_banner": {
+      "banner_lynx_extra": "",
+      "banner_lynx_url": "",
+      "banner_priority": 900,
+      "bg_color_values": [],
+      "deprecated": "",
+      "display_text": {
+        "default_format": {
+          "bold": false,
+          "color": "C0FFFFFF",
+          "font_size": 14,
+          "italic": false,
+          "italic_angle": 0,
+          "use_heigh_light_color": false,
+          "use_remote_clor": false,
+          "weight": 0
+        },
+        "default_pattern": "Gift includes audio.",
+        "key": "pm_mt_audio_gift_desc",
+        "pieces": []
+      },
+      "left_icon": {
+        "avg_color": "#CECEEB",
+        "height": 24,
+        "image_type": 0,
+        "is_animated": false,
+        "open_web_url": "",
+        "uri": "webcast-sg/gift_audio_icon_v1.png",
+        "url_list": [
+          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
+          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
+        ],
+        "width": 24
+      },
+      "schema_url": ""
+    },
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 2,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#523737",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 9466,
+    "image": {
+      "avg_color": "#607A53",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/12ecc01c2984c5d85bb508e80103a3cb.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Amusement Park",
+    "primary_effect_id": 4539,
+    "tracker_params": {
+      "gift_property": "audio_gift"
+    },
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Maggie",
+    "diamond_count": 15000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_icon": {
+      "avg_color": "#607A53",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/fc4d2b99910ce9bea92c8a8b503519f9",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "gift_label_type": 6,
+    "gift_panel_banner": {
+      "banner_lynx_extra": "",
+      "banner_lynx_url": "",
+      "banner_priority": 900,
+      "bg_color_values": [],
+      "deprecated": "",
+      "display_text": {
+        "default_format": {
+          "bold": false,
+          "color": "C0FFFFFF",
+          "font_size": 14,
+          "italic": false,
+          "italic_angle": 0,
+          "use_heigh_light_color": false,
+          "use_remote_clor": false,
+          "weight": 0
+        },
+        "default_pattern": "Gift includes audio.",
+        "key": "pm_mt_audio_gift_desc",
+        "pieces": []
+      },
+      "left_icon": {
+        "avg_color": "#CECEEB",
+        "height": 24,
+        "image_type": 0,
+        "is_animated": false,
+        "open_web_url": "",
+        "uri": "webcast-sg/gift_audio_icon_v1.png",
+        "url_list": [
+          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
+          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
+        ],
+        "width": 24
+      },
+      "schema_url": ""
+    },
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 2,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      7
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#EBCECE",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/0a3e2a7cbed19434df523604c708a5ba",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 7911,
+    "image": {
+      "avg_color": "#607A53",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/0a3e2a7cbed19434df523604c708a5ba",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/0a3e2a7cbed19434df523604c708a5ba~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Maggie",
+    "primary_effect_id": 2035,
+    "tracker_params": {
+      "gift_property": "audio_gift"
+    },
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Alien Spaceship",
+    "diamond_count": 15000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_type": 0,
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 0,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
+      6
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#F0F0F0",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/69dd4103f8bab2eb4c07c844817d2761.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 8389,
+    "image": {
+      "avg_color": "#FFF1EB",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/69dd4103f8bab2eb4c07c844817d2761.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/69dd4103f8bab2eb4c07c844817d2761.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Alien Spaceship",
+    "primary_effect_id": 2541,
+    "tracker_params": {},
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Rosa Nebula",
+    "diamond_count": 15000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_icon": {
+      "avg_color": "#C8E0BC",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/fc4d2b99910ce9bea92c8a8b503519f9",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/fc4d2b99910ce9bea92c8a8b503519f9~tplv-obj.webp"
       ],
       "width": 0
     },
@@ -3825,12 +3711,126 @@
     "gift_sub_type": 2,
     "gift_texts": [],
     "gift_vertical_scenarios": [
+      6,
+      7
+    ],
+    "gold_effect": "",
+    "group_in_tab": 0,
+    "icon": {
+      "avg_color": "#7C9BA3",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/f722088231103b66875dae33f13f8719.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "id": 8912,
+    "image": {
+      "avg_color": "#7C9BA3",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/resource/f722088231103b66875dae33f13f8719.png",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/f722088231103b66875dae33f13f8719.png~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "is_box_gift": false,
+    "is_broadcast_gift": false,
+    "is_displayed_on_panel": false,
+    "is_effect_befview": false,
+    "is_gallery_gift": false,
+    "is_random_gift": false,
+    "lock_info": {
+      "gift_level": 0,
+      "lock": false,
+      "lock_type": 0
+    },
+    "name": "Rosa Nebula",
+    "primary_effect_id": 3310,
+    "tracker_params": {
+      "gift_property": "audio_gift"
+    },
+    "type": 2
+  },
+  {
+    "can_put_in_gift_box": false,
+    "color_infos": [],
+    "combo": false,
+    "describe": "sent Berlin",
+    "diamond_count": 15000,
+    "duration": 1000,
+    "for_linkmic": true,
+    "gift_label_icon": {
+      "avg_color": "#FAFAFA",
+      "height": 0,
+      "image_type": 0,
+      "is_animated": false,
+      "open_web_url": "",
+      "uri": "webcast-va/d7b46fe44ce654966e17a5cff3336374",
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d7b46fe44ce654966e17a5cff3336374~tplv-obj.webp",
+        "https://p19-webcast.tiktokcdn.com/img/maliva/webcast-va/d7b46fe44ce654966e17a5cff3336374~tplv-obj.webp"
+      ],
+      "width": 0
+    },
+    "gift_label_type": 6,
+    "gift_panel_banner": {
+      "banner_lynx_extra": "",
+      "banner_lynx_url": "",
+      "banner_priority": 900,
+      "bg_color_values": [],
+      "deprecated": "",
+      "display_text": {
+        "default_format": {
+          "bold": false,
+          "color": "C0FFFFFF",
+          "font_size": 14,
+          "italic": false,
+          "italic_angle": 0,
+          "use_heigh_light_color": false,
+          "use_remote_clor": false,
+          "weight": 0
+        },
+        "default_pattern": "Gift includes audio.",
+        "key": "pm_mt_audio_gift_desc",
+        "pieces": []
+      },
+      "left_icon": {
+        "avg_color": "#53537A",
+        "height": 24,
+        "image_type": 0,
+        "is_animated": false,
+        "open_web_url": "",
+        "uri": "webcast-sg/gift_audio_icon_v1.png",
+        "url_list": [
+          "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp",
+          "https://p19-webcast.tiktokcdn.com/img/alisg/webcast-sg/gift_audio_icon_v1.png~tplv-obj.webp"
+        ],
+        "width": 24
+      },
+      "schema_url": ""
+    },
+    "gift_rank_recommend_info": "",
+    "gift_skin_to_gift_texts_infos": [],
+    "gift_skins": [],
+    "gift_sub_type": 2,
+    "gift_texts": [],
+    "gift_vertical_scenarios": [
       6
     ],
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -3844,7 +3844,7 @@
     },
     "id": 9758,
     "image": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#FAF0DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -3894,7 +3894,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#D8EBCE",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -3908,7 +3908,7 @@
     },
     "id": 8419,
     "image": {
-      "avg_color": "#7A5353",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -3956,7 +3956,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#607A53",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -3970,7 +3970,7 @@
     },
     "id": 10101,
     "image": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#EBFBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4018,7 +4018,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#3D3D3D",
+      "avg_color": "#E0D4BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4032,7 +4032,7 @@
     },
     "id": 7627,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4081,7 +4081,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#405237",
+      "avg_color": "#FAF0DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4095,7 +4095,7 @@
     },
     "id": 6149,
     "image": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4144,7 +4144,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4158,7 +4158,7 @@
     },
     "id": 6203,
     "image": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4217,7 +4217,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#7A536D",
+        "avg_color": "#EBCEE1",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -4243,7 +4243,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4257,7 +4257,7 @@
     },
     "id": 8916,
     "image": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4318,7 +4318,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#EBFBFF",
+        "avg_color": "#7A536D",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -4343,7 +4343,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#7A6053",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4357,7 +4357,7 @@
     },
     "id": 9486,
     "image": {
-      "avg_color": "#666666",
+      "avg_color": "#A37C96",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4407,7 +4407,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A3897C",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4421,7 +4421,7 @@
     },
     "id": 8420,
     "image": {
-      "avg_color": "#405237",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4456,7 +4456,7 @@
         "color_effect_id": 365,
         "color_id": 1,
         "color_image": {
-          "avg_color": "#EBCECE",
+          "avg_color": "#A3C4CC",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4474,7 +4474,7 @@
           "#FF5E7A"
         ],
         "gift_image": {
-          "avg_color": "#E0D4BC",
+          "avg_color": "#8F8F8F",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4492,7 +4492,7 @@
         "color_effect_id": 450,
         "color_id": 2,
         "color_image": {
-          "avg_color": "#A37C96",
+          "avg_color": "#7A5353",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4510,7 +4510,7 @@
           "#60E5AE"
         ],
         "gift_image": {
-          "avg_color": "#7A6053",
+          "avg_color": "#E0D4BC",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4528,7 +4528,7 @@
         "color_effect_id": 451,
         "color_id": 3,
         "color_image": {
-          "avg_color": "#D8EBCE",
+          "avg_color": "#EBD8CE",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4546,7 +4546,7 @@
           "#6699FF"
         ],
         "gift_image": {
-          "avg_color": "#F1FFEB",
+          "avg_color": "#7C9BA3",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4564,7 +4564,7 @@
         "color_effect_id": 452,
         "color_id": 4,
         "color_image": {
-          "avg_color": "#523749",
+          "avg_color": "#EBFBFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4582,7 +4582,7 @@
           "#FFE15E"
         ],
         "gift_image": {
-          "avg_color": "#CCA3A3",
+          "avg_color": "#D6D6D6",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4600,7 +4600,7 @@
         "color_effect_id": 466,
         "color_id": 5,
         "color_image": {
-          "avg_color": "#A37C96",
+          "avg_color": "#CCB1A3",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4618,7 +4618,7 @@
           "#FFA5C1"
         ],
         "gift_image": {
-          "avg_color": "#666666",
+          "avg_color": "#A3967C",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4636,7 +4636,7 @@
         "color_effect_id": 465,
         "color_id": 6,
         "color_image": {
-          "avg_color": "#405237",
+          "avg_color": "#524037",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4654,7 +4654,7 @@
           "#8A8AFF"
         ],
         "gift_image": {
-          "avg_color": "#EBCECE",
+          "avg_color": "#373752",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -4675,7 +4675,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#D6D6D6",
+      "avg_color": "#F1FFEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4701,7 +4701,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4715,7 +4715,7 @@
     },
     "id": 6089,
     "image": {
-      "avg_color": "#D8EBCE",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4754,7 +4754,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#A3C4CC",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4778,7 +4778,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#524037",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4792,7 +4792,7 @@
     },
     "id": 6790,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4840,7 +4840,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4854,7 +4854,7 @@
     },
     "id": 9095,
     "image": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4913,7 +4913,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#8F8F8F",
+        "avg_color": "#CCBEA3",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -4938,7 +4938,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#FFEBF8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4952,7 +4952,7 @@
     },
     "id": 9467,
     "image": {
-      "avg_color": "#FFFFFF",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -4991,7 +4991,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7A5353",
+      "avg_color": "#53737A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5015,7 +5015,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F0F0F0",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5029,7 +5029,7 @@
     },
     "id": 7841,
     "image": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#7C7CA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5066,7 +5066,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7A536D",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5101,7 +5101,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#666666",
+        "avg_color": "#E0C8BC",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -5127,7 +5127,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5141,7 +5141,7 @@
     },
     "id": 6845,
     "image": {
-      "avg_color": "#E0BCBC",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5192,7 +5192,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5206,7 +5206,7 @@
     },
     "id": 7237,
     "image": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5231,7 +5231,7 @@
     },
     "name": "Unicorn Fantasy",
     "preview_image": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5268,7 +5268,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#607A53",
+      "avg_color": "#7C9BA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5282,7 +5282,7 @@
     },
     "id": 8344,
     "image": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#A37C96",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5331,7 +5331,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#E0D4BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5345,7 +5345,7 @@
     },
     "id": 8433,
     "image": {
-      "avg_color": "#EBFBFF",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5404,7 +5404,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#D6D6D6",
+        "avg_color": "#7A6D53",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -5430,7 +5430,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5444,7 +5444,7 @@
     },
     "id": 8988,
     "image": {
-      "avg_color": "#FFF8EB",
+      "avg_color": "#EBCECE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5494,7 +5494,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#373752",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5508,7 +5508,7 @@
     },
     "id": 9500,
     "image": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5543,7 +5543,7 @@
         "color_effect_id": 474,
         "color_id": 1,
         "color_image": {
-          "avg_color": "#EBCECE",
+          "avg_color": "#523749",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5561,7 +5561,7 @@
           "#FCCD89"
         ],
         "gift_image": {
-          "avg_color": "#7C9BA3",
+          "avg_color": "#CECEEB",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5579,7 +5579,7 @@
         "color_effect_id": 475,
         "color_id": 2,
         "color_image": {
-          "avg_color": "#FADCF0",
+          "avg_color": "#EBEBFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5597,7 +5597,7 @@
           "#FFA5C1"
         ],
         "gift_image": {
-          "avg_color": "#EBE1CE",
+          "avg_color": "#FFFFFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5615,7 +5615,7 @@
         "color_effect_id": 476,
         "color_id": 3,
         "color_image": {
-          "avg_color": "#523737",
+          "avg_color": "#EBCEE1",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5633,7 +5633,7 @@
           "#80C4FF"
         ],
         "gift_image": {
-          "avg_color": "#EBE1CE",
+          "avg_color": "#D8EBCE",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5651,7 +5651,7 @@
         "color_effect_id": 477,
         "color_id": 4,
         "color_image": {
-          "avg_color": "#405237",
+          "avg_color": "#FAF0DC",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5669,7 +5669,7 @@
           "#B689FF"
         ],
         "gift_image": {
-          "avg_color": "#53537A",
+          "avg_color": "#666666",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -5690,7 +5690,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5716,7 +5716,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5730,7 +5730,7 @@
     },
     "id": 5767,
     "image": {
-      "avg_color": "#523749",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5769,7 +5769,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FFF1EB",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5804,7 +5804,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#FAFAFA",
+        "avg_color": "#F0F0F0",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -5830,7 +5830,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5844,7 +5844,7 @@
     },
     "id": 6646,
     "image": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#BCD9E0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5894,7 +5894,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#666666",
+      "avg_color": "#E6FADC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5908,7 +5908,7 @@
     },
     "id": 8564,
     "image": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#607A53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5957,7 +5957,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#523737",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -5971,7 +5971,7 @@
     },
     "id": 6148,
     "image": {
-      "avg_color": "#CCA3BE",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6019,7 +6019,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6033,7 +6033,7 @@
     },
     "id": 6835,
     "image": {
-      "avg_color": "#3D3D3D",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6082,7 +6082,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#BCD9E0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6096,7 +6096,7 @@
     },
     "id": 8152,
     "image": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6145,7 +6145,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6159,7 +6159,7 @@
     },
     "id": 5652,
     "image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6208,7 +6208,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#B1CCA3",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6222,7 +6222,7 @@
     },
     "id": 6563,
     "image": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6270,7 +6270,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#53737A",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6284,7 +6284,7 @@
     },
     "id": 8086,
     "image": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6333,7 +6333,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6347,7 +6347,7 @@
     },
     "id": 8188,
     "image": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#E0BCD4",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6384,7 +6384,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6408,7 +6408,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6422,7 +6422,7 @@
     },
     "id": 9499,
     "image": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6447,7 +6447,7 @@
     },
     "name": "Golden Party",
     "preview_image": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6483,7 +6483,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6497,7 +6497,7 @@
     },
     "id": 9468,
     "image": {
-      "avg_color": "#524037",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6522,7 +6522,7 @@
     },
     "name": "Rhythmic Bear",
     "preview_image": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6562,7 +6562,7 @@
         "color_effect_id": 486,
         "color_id": 1,
         "color_image": {
-          "avg_color": "#FFF8EB",
+          "avg_color": "#7A536D",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6580,7 +6580,7 @@
           "#60E5AE"
         ],
         "gift_image": {
-          "avg_color": "#E0BCD4",
+          "avg_color": "#EBCEE1",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6598,7 +6598,7 @@
         "color_effect_id": 487,
         "color_id": 2,
         "color_image": {
-          "avg_color": "#F1FFEB",
+          "avg_color": "#EBEBFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6616,7 +6616,7 @@
           "#FF7ACA"
         ],
         "gift_image": {
-          "avg_color": "#CCB1A3",
+          "avg_color": "#FFFFFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6634,7 +6634,7 @@
         "color_effect_id": 488,
         "color_id": 3,
         "color_image": {
-          "avg_color": "#A37C7C",
+          "avg_color": "#7A536D",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6652,7 +6652,7 @@
           "#6699FF"
         ],
         "gift_image": {
-          "avg_color": "#B8B8B8",
+          "avg_color": "#A3897C",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6670,7 +6670,7 @@
         "color_effect_id": 489,
         "color_id": 4,
         "color_image": {
-          "avg_color": "#374C52",
+          "avg_color": "#F1FFEB",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6688,7 +6688,7 @@
           "#8A8AFF"
         ],
         "gift_image": {
-          "avg_color": "#7C7CA3",
+          "avg_color": "#EBEBFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6706,7 +6706,7 @@
         "color_effect_id": 490,
         "color_id": 5,
         "color_image": {
-          "avg_color": "#607A53",
+          "avg_color": "#D6D6D6",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6724,7 +6724,7 @@
           "#C0D2DF"
         ],
         "gift_image": {
-          "avg_color": "#607A53",
+          "avg_color": "#EBEBFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6742,7 +6742,7 @@
         "color_effect_id": 491,
         "color_id": 6,
         "color_image": {
-          "avg_color": "#CCA3A3",
+          "avg_color": "#EBE1CE",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6760,7 +6760,7 @@
           "#FF5E7A"
         ],
         "gift_image": {
-          "avg_color": "#7C9BA3",
+          "avg_color": "#FFEBEB",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -6781,7 +6781,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#EBD8CE",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6807,7 +6807,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#607A53",
+      "avg_color": "#E0BCD4",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6821,7 +6821,7 @@
     },
     "id": 5765,
     "image": {
-      "avg_color": "#FAE6DC",
+      "avg_color": "#405237",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6872,7 +6872,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6886,7 +6886,7 @@
     },
     "id": 7880,
     "image": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6923,7 +6923,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6948,7 +6948,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#523749",
+      "avg_color": "#FFFFFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -6962,7 +6962,7 @@
     },
     "id": 7881,
     "image": {
-      "avg_color": "#7A5353",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7010,7 +7010,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#523737",
+      "avg_color": "#A37C7C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7024,7 +7024,7 @@
     },
     "id": 8741,
     "image": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#7A6053",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7061,7 +7061,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#C8E0BC",
+      "avg_color": "#CCBEA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7096,7 +7096,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#524937",
+        "avg_color": "#F0F0F0",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -7122,7 +7122,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBD8CE",
+      "avg_color": "#FAF0DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7136,7 +7136,7 @@
     },
     "id": 6820,
     "image": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#D8EBCE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7187,7 +7187,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#524037",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7201,7 +7201,7 @@
     },
     "id": 6033,
     "image": {
-      "avg_color": "#524037",
+      "avg_color": "#FFFFFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7250,7 +7250,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#D8EBCE",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7264,7 +7264,7 @@
     },
     "id": 6320,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7313,7 +7313,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCBC",
+      "avg_color": "#FFF8EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7327,7 +7327,7 @@
     },
     "id": 6327,
     "image": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#BCD9E0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7364,7 +7364,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7388,7 +7388,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7402,7 +7402,7 @@
     },
     "id": 6789,
     "image": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#FADCDC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7439,7 +7439,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7463,7 +7463,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAE6DC",
+      "avg_color": "#524037",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7477,7 +7477,7 @@
     },
     "id": 6834,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7536,7 +7536,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#B8B8B8",
+        "avg_color": "#EBCEE1",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -7562,7 +7562,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#405237",
+      "avg_color": "#607A53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7576,7 +7576,7 @@
     },
     "id": 6862,
     "image": {
-      "avg_color": "#FFFFFF",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7613,7 +7613,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7637,7 +7637,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBEBFF",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7651,7 +7651,7 @@
     },
     "id": 7529,
     "image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#7C7CA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7676,7 +7676,7 @@
     },
     "name": "Mystery Firework",
     "preview_image": {
-      "avg_color": "#FAE6DC",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7701,7 +7701,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7736,7 +7736,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#D6D6D6",
+        "avg_color": "#FFF1EB",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -7761,7 +7761,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#523737",
+      "avg_color": "#E0C8BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7775,7 +7775,7 @@
     },
     "id": 8277,
     "image": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7812,7 +7812,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#FFFFFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7837,7 +7837,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#E6FADC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7851,7 +7851,7 @@
     },
     "id": 7879,
     "image": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7899,7 +7899,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7913,7 +7913,7 @@
     },
     "id": 9457,
     "image": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7962,7 +7962,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -7976,7 +7976,7 @@
     },
     "id": 5651,
     "image": {
-      "avg_color": "#405237",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8001,7 +8001,7 @@
     },
     "name": "Garland ",
     "preview_image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#E0BCD4",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8038,7 +8038,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#523737",
+      "avg_color": "#524037",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8052,7 +8052,7 @@
     },
     "id": 5955,
     "image": {
-      "avg_color": "#666666",
+      "avg_color": "#D8EBCE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8101,7 +8101,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBE1CE",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8115,7 +8115,7 @@
     },
     "id": 7367,
     "image": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8164,7 +8164,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8178,7 +8178,7 @@
     },
     "id": 7467,
     "image": {
-      "avg_color": "#FFF1EB",
+      "avg_color": "#7C9BA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8226,7 +8226,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#89A37C",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8240,7 +8240,7 @@
     },
     "id": 9043,
     "image": {
-      "avg_color": "#FFEBEB",
+      "avg_color": "#7A6053",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8277,7 +8277,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7A6053",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8312,7 +8312,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#BCD9E0",
+        "avg_color": "#FAFAFA",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -8337,7 +8337,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#53737A",
+      "avg_color": "#C8E0BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8351,7 +8351,7 @@
     },
     "id": 9824,
     "image": {
-      "avg_color": "#666666",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8399,7 +8399,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCBC",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8413,7 +8413,7 @@
     },
     "id": 9588,
     "image": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8448,7 +8448,7 @@
         "color_effect_id": 478,
         "color_id": 1,
         "color_image": {
-          "avg_color": "#EBEBFF",
+          "avg_color": "#A37C7C",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8466,7 +8466,7 @@
           "#80C4FF"
         ],
         "gift_image": {
-          "avg_color": "#A3A3CC",
+          "avg_color": "#A37C7C",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8484,7 +8484,7 @@
         "color_effect_id": 483,
         "color_id": 2,
         "color_image": {
-          "avg_color": "#607A53",
+          "avg_color": "#E0BCD4",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8502,7 +8502,7 @@
           "#FFA5C1"
         ],
         "gift_image": {
-          "avg_color": "#53737A",
+          "avg_color": "#A3A3CC",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8520,7 +8520,7 @@
         "color_effect_id": 484,
         "color_id": 3,
         "color_image": {
-          "avg_color": "#EBD8CE",
+          "avg_color": "#E6FADC",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8538,7 +8538,7 @@
           "#80E0D5"
         ],
         "gift_image": {
-          "avg_color": "#CECEEB",
+          "avg_color": "#D6D6D6",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8556,7 +8556,7 @@
         "color_effect_id": 485,
         "color_id": 4,
         "color_image": {
-          "avg_color": "#607A53",
+          "avg_color": "#524937",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8574,7 +8574,7 @@
           "#B689FF"
         ],
         "gift_image": {
-          "avg_color": "#7A6053",
+          "avg_color": "#D6D6D6",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -8595,7 +8595,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8621,7 +8621,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCBC",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8635,7 +8635,7 @@
     },
     "id": 6090,
     "image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8685,7 +8685,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F0F0F0",
+      "avg_color": "#EBFBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8699,7 +8699,7 @@
     },
     "id": 7963,
     "image": {
-      "avg_color": "#D8EBCE",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8747,7 +8747,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#607A53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8761,7 +8761,7 @@
     },
     "id": 5587,
     "image": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8810,7 +8810,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#524037",
+      "avg_color": "#373752",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8824,7 +8824,7 @@
     },
     "id": 5680,
     "image": {
-      "avg_color": "#FFEBEB",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8873,7 +8873,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8887,7 +8887,7 @@
     },
     "id": 6200,
     "image": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#FADCDC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8935,7 +8935,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#CCBEA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8949,7 +8949,7 @@
     },
     "id": 6364,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -8998,7 +8998,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9012,7 +9012,7 @@
     },
     "id": 6781,
     "image": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#53737A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9061,7 +9061,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#A3967C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9075,7 +9075,7 @@
     },
     "id": 6842,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9124,7 +9124,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#D6D6D6",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9138,7 +9138,7 @@
     },
     "id": 7882,
     "image": {
-      "avg_color": "#B1CCA3",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9187,7 +9187,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9201,7 +9201,7 @@
     },
     "id": 8972,
     "image": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9249,7 +9249,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#405237",
+      "avg_color": "#C8E0BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9263,7 +9263,7 @@
     },
     "id": 9498,
     "image": {
-      "avg_color": "#405237",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9311,7 +9311,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#374C52",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9325,7 +9325,7 @@
     },
     "id": 5976,
     "image": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#E6FADC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9362,7 +9362,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#A3967C",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9387,7 +9387,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FFF1EB",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9401,7 +9401,7 @@
     },
     "id": 6233,
     "image": {
-      "avg_color": "#523737",
+      "avg_color": "#EBFBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9426,7 +9426,7 @@
     },
     "name": "Travel with You",
     "preview_image": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9479,7 +9479,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#405237",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9493,7 +9493,7 @@
     },
     "id": 9717,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9518,7 +9518,7 @@
     },
     "name": "Lucky Airdrop Box",
     "preview_image": {
-      "avg_color": "#666666",
+      "avg_color": "#FFEBF8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9571,7 +9571,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9585,7 +9585,7 @@
     },
     "id": 5978,
     "image": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9633,7 +9633,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#523737",
+      "avg_color": "#FAF0DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9647,7 +9647,7 @@
     },
     "id": 5897,
     "image": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#A37C7C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9695,7 +9695,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBE1CE",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9709,7 +9709,7 @@
     },
     "id": 7168,
     "image": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9757,7 +9757,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F0F0F0",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9771,7 +9771,7 @@
     },
     "id": 7282,
     "image": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#FFF8EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9819,7 +9819,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A3967C",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9833,7 +9833,7 @@
     },
     "id": 7398,
     "image": {
-      "avg_color": "#FFF8EB",
+      "avg_color": "#FADCDC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9881,7 +9881,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9895,7 +9895,7 @@
     },
     "id": 7985,
     "image": {
-      "avg_color": "#F0F0F0",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9943,7 +9943,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -9957,7 +9957,7 @@
     },
     "id": 8648,
     "image": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10005,7 +10005,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10019,7 +10019,7 @@
     },
     "id": 8892,
     "image": {
-      "avg_color": "#D8EBCE",
+      "avg_color": "#7A5353",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10067,7 +10067,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10081,7 +10081,7 @@
     },
     "id": 9623,
     "image": {
-      "avg_color": "#523737",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10129,7 +10129,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#C8E0BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10143,7 +10143,7 @@
     },
     "id": 9792,
     "image": {
-      "avg_color": "#53737A",
+      "avg_color": "#A3C4CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10191,7 +10191,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10205,7 +10205,7 @@
     },
     "id": 5731,
     "image": {
-      "avg_color": "#7A6053",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10267,7 +10267,7 @@
     },
     "id": 6415,
     "image": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10315,7 +10315,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10329,7 +10329,7 @@
     },
     "id": 8107,
     "image": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10377,7 +10377,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10391,7 +10391,7 @@
     },
     "id": 8852,
     "image": {
-      "avg_color": "#53537A",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10439,7 +10439,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10453,7 +10453,7 @@
     },
     "id": 8914,
     "image": {
-      "avg_color": "#524937",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10490,7 +10490,7 @@
     "duration": 3000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10525,7 +10525,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#F0F0F0",
+        "avg_color": "#7A6053",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -10550,7 +10550,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAE6DC",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10564,7 +10564,7 @@
     },
     "id": 9537,
     "image": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#D6D6D6",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10612,7 +10612,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FFFFFF",
+      "avg_color": "#7C7CA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10626,7 +10626,7 @@
     },
     "id": 9624,
     "image": {
-      "avg_color": "#7A5353",
+      "avg_color": "#FFFFFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10663,7 +10663,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10698,7 +10698,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#DCF4FA",
+        "avg_color": "#C8E0BC",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -10723,7 +10723,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#A3967C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10737,7 +10737,7 @@
     },
     "id": 9825,
     "image": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10785,7 +10785,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#666666",
+      "avg_color": "#BCBCE0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10799,7 +10799,7 @@
     },
     "id": 6007,
     "image": {
-      "avg_color": "#405237",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10847,7 +10847,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#607A53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10861,7 +10861,7 @@
     },
     "id": 6265,
     "image": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#A3967C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10909,7 +10909,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#373752",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10923,7 +10923,7 @@
     },
     "id": 6267,
     "image": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#373752",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10971,7 +10971,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -10985,7 +10985,7 @@
     },
     "id": 6868,
     "image": {
-      "avg_color": "#607A53",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11033,7 +11033,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#524937",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11047,7 +11047,7 @@
     },
     "id": 8111,
     "image": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11095,7 +11095,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#89A37C",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11109,7 +11109,7 @@
     },
     "id": 8260,
     "image": {
-      "avg_color": "#B1CCA3",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11157,7 +11157,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#C8E0BC",
+      "avg_color": "#FFF8EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11171,7 +11171,7 @@
     },
     "id": 8873,
     "image": {
-      "avg_color": "#EBEBFF",
+      "avg_color": "#7C9BA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11219,7 +11219,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FFEBEB",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11233,7 +11233,7 @@
     },
     "id": 9465,
     "image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11281,7 +11281,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBFBFF",
+      "avg_color": "#BCD9E0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11295,7 +11295,7 @@
     },
     "id": 9535,
     "image": {
-      "avg_color": "#53537A",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11343,7 +11343,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11405,7 +11405,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7A6053",
+      "avg_color": "#A37C7C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11419,7 +11419,7 @@
     },
     "id": 10092,
     "image": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11454,7 +11454,7 @@
         "color_effect_id": 167,
         "color_id": 1,
         "color_image": {
-          "avg_color": "#B8B8B8",
+          "avg_color": "#CCB1A3",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11472,7 +11472,7 @@
           "#8A8AFF"
         ],
         "gift_image": {
-          "avg_color": "#CECEEB",
+          "avg_color": "#7A6D53",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11490,7 +11490,7 @@
         "color_effect_id": 492,
         "color_id": 2,
         "color_image": {
-          "avg_color": "#A37C96",
+          "avg_color": "#CEE5EB",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11508,7 +11508,7 @@
           "#FFA5C1"
         ],
         "gift_image": {
-          "avg_color": "#FFF8EB",
+          "avg_color": "#8F8F8F",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11526,7 +11526,7 @@
         "color_effect_id": 493,
         "color_id": 3,
         "color_image": {
-          "avg_color": "#EBEBFF",
+          "avg_color": "#7A5353",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11544,7 +11544,7 @@
           "#6699FF"
         ],
         "gift_image": {
-          "avg_color": "#89A37C",
+          "avg_color": "#A3967C",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11562,7 +11562,7 @@
         "color_effect_id": 494,
         "color_id": 4,
         "color_image": {
-          "avg_color": "#A37C7C",
+          "avg_color": "#666666",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11580,7 +11580,7 @@
           "#FFA15E"
         ],
         "gift_image": {
-          "avg_color": "#FFF1EB",
+          "avg_color": "#FAFAFA",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -11601,7 +11601,7 @@
     "duration": 0,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11625,7 +11625,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7A5353",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11639,7 +11639,7 @@
     },
     "id": 5509,
     "image": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#E0D4BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11689,7 +11689,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#E0D4BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11703,7 +11703,7 @@
     },
     "id": 5586,
     "image": {
-      "avg_color": "#A3967C",
+      "avg_color": "#BCBCE0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11751,7 +11751,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11765,7 +11765,7 @@
     },
     "id": 5880,
     "image": {
-      "avg_color": "#374C52",
+      "avg_color": "#FFEBF8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11813,7 +11813,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#373752",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11827,7 +11827,7 @@
     },
     "id": 6437,
     "image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#7A6053",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11864,7 +11864,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#A3897C",
+      "avg_color": "#373752",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11899,7 +11899,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#EBE1CE",
+        "avg_color": "#7C7CA3",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -11925,7 +11925,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11939,7 +11939,7 @@
     },
     "id": 6671,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#EBFBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -11976,7 +11976,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#524037",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12000,7 +12000,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#373752",
+      "avg_color": "#FFEBF8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12014,7 +12014,7 @@
     },
     "id": 6713,
     "image": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12062,7 +12062,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBE1CE",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12076,7 +12076,7 @@
     },
     "id": 7839,
     "image": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#FADCDC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12124,7 +12124,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FADCF0",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12186,7 +12186,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12200,7 +12200,7 @@
     },
     "id": 8600,
     "image": {
-      "avg_color": "#EBEBFF",
+      "avg_color": "#F1FFEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12248,7 +12248,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#FFFFFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12262,7 +12262,7 @@
     },
     "id": 9152,
     "image": {
-      "avg_color": "#523749",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12299,7 +12299,7 @@
     "duration": 3000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12323,7 +12323,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#374C52",
+      "avg_color": "#CCBEA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12337,7 +12337,7 @@
     },
     "id": 9589,
     "image": {
-      "avg_color": "#FFEBEB",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12385,7 +12385,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#524937",
+      "avg_color": "#A37C96",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12399,7 +12399,7 @@
     },
     "id": 6618,
     "image": {
-      "avg_color": "#EBEBFF",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12447,7 +12447,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#3D3D3D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12461,7 +12461,7 @@
     },
     "id": 5585,
     "image": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12509,7 +12509,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FFEBF8",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12523,7 +12523,7 @@
     },
     "id": 6968,
     "image": {
-      "avg_color": "#A3897C",
+      "avg_color": "#FFF8EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12571,7 +12571,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#E6FADC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12585,7 +12585,7 @@
     },
     "id": 7264,
     "image": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12620,7 +12620,7 @@
         "color_effect_id": 217,
         "color_id": 1,
         "color_image": {
-          "avg_color": "#E0BCD4",
+          "avg_color": "#FFF1EB",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12638,7 +12638,7 @@
           "#80C4FF"
         ],
         "gift_image": {
-          "avg_color": "#405237",
+          "avg_color": "#FFFFFF",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12656,7 +12656,7 @@
         "color_effect_id": 453,
         "color_id": 2,
         "color_image": {
-          "avg_color": "#523749",
+          "avg_color": "#CCBEA3",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12674,7 +12674,7 @@
           "#FFA5C1"
         ],
         "gift_image": {
-          "avg_color": "#FFF1EB",
+          "avg_color": "#CEE5EB",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12692,7 +12692,7 @@
         "color_effect_id": 454,
         "color_id": 3,
         "color_image": {
-          "avg_color": "#FAFAFA",
+          "avg_color": "#89A37C",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12710,7 +12710,7 @@
           "#FFA15E"
         ],
         "gift_image": {
-          "avg_color": "#BCBCE0",
+          "avg_color": "#EBD8CE",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12728,7 +12728,7 @@
         "color_effect_id": 455,
         "color_id": 4,
         "color_image": {
-          "avg_color": "#FAF0DC",
+          "avg_color": "#374C52",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12746,7 +12746,7 @@
           "#B689FF"
         ],
         "gift_image": {
-          "avg_color": "#A37C96",
+          "avg_color": "#E0BCD4",
           "height": 0,
           "image_type": 0,
           "is_animated": false,
@@ -12767,7 +12767,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#524937",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12792,7 +12792,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12806,7 +12806,7 @@
     },
     "id": 5659,
     "image": {
-      "avg_color": "#F1FFEB",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12856,7 +12856,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#EBE1CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12870,7 +12870,7 @@
     },
     "id": 6097,
     "image": {
-      "avg_color": "#523737",
+      "avg_color": "#BCBCE0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12918,7 +12918,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#3D3D3D",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12932,7 +12932,7 @@
     },
     "id": 6104,
     "image": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#53737A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12980,7 +12980,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#89A37C",
+      "avg_color": "#D8EBCE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -12994,7 +12994,7 @@
     },
     "id": 6427,
     "image": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#666666",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13042,7 +13042,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#7C7CA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13056,7 +13056,7 @@
     },
     "id": 6525,
     "image": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13104,7 +13104,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13118,7 +13118,7 @@
     },
     "id": 6661,
     "image": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#523737",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13166,7 +13166,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13180,7 +13180,7 @@
     },
     "id": 7883,
     "image": {
-      "avg_color": "#3D3D3D",
+      "avg_color": "#7A5353",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13217,7 +13217,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#7A6D53",
+      "avg_color": "#EBCECE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13252,7 +13252,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#53737A",
+        "avg_color": "#DCF4FA",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -13277,7 +13277,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBE1CE",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13291,7 +13291,7 @@
     },
     "id": 8130,
     "image": {
-      "avg_color": "#666666",
+      "avg_color": "#DCF4FA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13339,7 +13339,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCBEA3",
+      "avg_color": "#C8E0BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13353,7 +13353,7 @@
     },
     "id": 9096,
     "image": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#A3967C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13401,7 +13401,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3BE",
+      "avg_color": "#524937",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13415,7 +13415,7 @@
     },
     "id": 9795,
     "image": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13463,7 +13463,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#CCA3BE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13477,7 +13477,7 @@
     },
     "id": 9575,
     "image": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13525,7 +13525,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#524037",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13539,7 +13539,7 @@
     },
     "id": 8259,
     "image": {
-      "avg_color": "#E0C8BC",
+      "avg_color": "#CECEEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13564,7 +13564,7 @@
     },
     "name": "Sign language love",
     "preview_image": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#89A37C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13600,7 +13600,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#524037",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13614,7 +13614,7 @@
     },
     "id": 8552,
     "image": {
-      "avg_color": "#7A6053",
+      "avg_color": "#FFEBF8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13662,7 +13662,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#B8B8B8",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13676,7 +13676,7 @@
     },
     "id": 7341,
     "image": {
-      "avg_color": "#CCB1A3",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13724,7 +13724,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13738,7 +13738,7 @@
     },
     "id": 7553,
     "image": {
-      "avg_color": "#89A37C",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13786,7 +13786,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13800,7 +13800,7 @@
     },
     "id": 8206,
     "image": {
-      "avg_color": "#53737A",
+      "avg_color": "#BCD9E0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13848,7 +13848,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCBC",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13862,7 +13862,7 @@
     },
     "id": 9458,
     "image": {
-      "avg_color": "#7A6053",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13910,7 +13910,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E6FADC",
+      "avg_color": "#523749",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13924,7 +13924,7 @@
     },
     "id": 9784,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13973,7 +13973,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A3967C",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -13987,7 +13987,7 @@
     },
     "id": 8814,
     "image": {
-      "avg_color": "#DCF4FA",
+      "avg_color": "#E0BCD4",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14035,7 +14035,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14049,7 +14049,7 @@
     },
     "id": 9622,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14097,7 +14097,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#A3897C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14111,7 +14111,7 @@
     },
     "id": 8768,
     "image": {
-      "avg_color": "#666666",
+      "avg_color": "#A37C7C",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14160,7 +14160,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CEE5EB",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14174,7 +14174,7 @@
     },
     "id": 7764,
     "image": {
-      "avg_color": "#53537A",
+      "avg_color": "#CCBEA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14222,7 +14222,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A3C4CC",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14236,7 +14236,7 @@
     },
     "id": 9287,
     "image": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14284,7 +14284,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0BCD4",
+      "avg_color": "#7C7CA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14298,7 +14298,7 @@
     },
     "id": 10093,
     "image": {
-      "avg_color": "#7A6053",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14362,7 +14362,7 @@
         ]
       },
       "left_icon": {
-        "avg_color": "#CCA3A3",
+        "avg_color": "#B1CCA3",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -14387,7 +14387,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3BE",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14401,7 +14401,7 @@
     },
     "id": 6246,
     "image": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14438,7 +14438,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#EBCEE1",
+      "avg_color": "#EBD8CE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14473,7 +14473,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#CCBEA3",
+        "avg_color": "#7C7CA3",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -14498,7 +14498,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3BE",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14512,7 +14512,7 @@
     },
     "id": 9950,
     "image": {
-      "avg_color": "#FAF0DC",
+      "avg_color": "#EBCEE1",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14551,7 +14551,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#FADCDC",
+      "avg_color": "#EBEBFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14586,7 +14586,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#DCF4FA",
+        "avg_color": "#7A5353",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -14611,7 +14611,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#A3A3CC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14625,7 +14625,7 @@
     },
     "id": 9949,
     "image": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14691,7 +14691,7 @@
         ]
       },
       "left_icon": {
-        "avg_color": "#7C9BA3",
+        "avg_color": "#FADCF0",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -14716,7 +14716,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#FAFAFA",
+      "avg_color": "#E0D4BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14730,7 +14730,7 @@
     },
     "id": 6247,
     "image": {
-      "avg_color": "#523749",
+      "avg_color": "#CCB1A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14767,7 +14767,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#EBFBFF",
+      "avg_color": "#FFEBEB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14791,7 +14791,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C9BA3",
+      "avg_color": "#666666",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14805,7 +14805,7 @@
     },
     "id": 6784,
     "image": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14853,7 +14853,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C7C",
+      "avg_color": "#7A536D",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14867,7 +14867,7 @@
     },
     "id": 6890,
     "image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14913,7 +14913,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#C8E0BC",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14927,7 +14927,7 @@
     },
     "id": 7375,
     "image": {
-      "avg_color": "#EBE1CE",
+      "avg_color": "#524937",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14964,7 +14964,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#524937",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -14988,7 +14988,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBCECE",
+      "avg_color": "#8F8F8F",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15002,7 +15002,7 @@
     },
     "id": 9948,
     "image": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#405237",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15039,7 +15039,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#3D3D3D",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15063,7 +15063,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#7A5353",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15077,7 +15077,7 @@
     },
     "id": 8221,
     "image": {
-      "avg_color": "#BCD9E0",
+      "avg_color": "#53537A",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15125,7 +15125,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#607A53",
+      "avg_color": "#FFF8EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15139,7 +15139,7 @@
     },
     "id": 9087,
     "image": {
-      "avg_color": "#7A6D53",
+      "avg_color": "#666666",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15187,7 +15187,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBEBFF",
+      "avg_color": "#DCDCFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15201,7 +15201,7 @@
     },
     "id": 9933,
     "image": {
-      "avg_color": "#FAE6DC",
+      "avg_color": "#E0BCBC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15260,7 +15260,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#EBE1CE",
+        "avg_color": "#DCDCFA",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -15286,7 +15286,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#B8B8B8",
+      "avg_color": "#D8EBCE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15300,7 +15300,7 @@
     },
     "id": 8456,
     "image": {
-      "avg_color": "#CECEEB",
+      "avg_color": "#BCD9E0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15339,7 +15339,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#53537A",
+      "avg_color": "#FAE6DC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15374,7 +15374,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#FAFAFA",
+        "avg_color": "#7A5353",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -15399,7 +15399,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15413,7 +15413,7 @@
     },
     "id": 9941,
     "image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15463,7 +15463,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#53737A",
+      "avg_color": "#C8E0BC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15477,7 +15477,7 @@
     },
     "id": 9097,
     "image": {
-      "avg_color": "#E0D4BC",
+      "avg_color": "#F0F0F0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15525,7 +15525,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#7C7CA3",
+      "avg_color": "#CCA3A3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15539,7 +15539,7 @@
     },
     "id": 9818,
     "image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#7C9BA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15576,7 +15576,7 @@
     "duration": 1000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#CCA3BE",
+      "avg_color": "#373752",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15611,7 +15611,7 @@
         "pieces": []
       },
       "left_icon": {
-        "avg_color": "#C8E0BC",
+        "avg_color": "#FADCDC",
         "height": 24,
         "image_type": 0,
         "is_animated": false,
@@ -15636,7 +15636,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#8F8F8F",
+      "avg_color": "#374C52",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15650,7 +15650,7 @@
     },
     "id": 9942,
     "image": {
-      "avg_color": "#DCDCFA",
+      "avg_color": "#FAFAFA",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15689,7 +15689,7 @@
     "duration": 3000,
     "for_linkmic": true,
     "gift_label_icon": {
-      "avg_color": "#BCBCE0",
+      "avg_color": "#7A6D53",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15713,7 +15713,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#A37C96",
+      "avg_color": "#FFF1EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15727,7 +15727,7 @@
     },
     "id": 9802,
     "image": {
-      "avg_color": "#89A37C",
+      "avg_color": "#B1CCA3",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15775,7 +15775,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#D8EBCE",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15789,7 +15789,7 @@
     },
     "id": 9582,
     "image": {
-      "avg_color": "#53537A",
+      "avg_color": "#CEE5EB",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15826,7 +15826,7 @@
     "duration": 1000,
     "for_linkmic": false,
     "gift_label_icon": {
-      "avg_color": "#A3A3CC",
+      "avg_color": "#FADCF0",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15850,7 +15850,7 @@
     "gold_effect": "",
     "group_in_tab": 0,
     "icon": {
-      "avg_color": "#EBFBFF",
+      "avg_color": "#E6FADC",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15864,7 +15864,7 @@
     },
     "id": 9550,
     "image": {
-      "avg_color": "#53537A",
+      "avg_color": "#A37C96",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
@@ -15889,7 +15889,7 @@
     },
     "name": "Claw machine",
     "preview_image": {
-      "avg_color": "#CCA3A3",
+      "avg_color": "#FFFFFF",
       "height": 0,
       "image_type": 0,
       "is_animated": false,
